@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Post-Credit Solar Payback Index 2026"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+version: "1.0"
+date-released: "2026-07-05"
+license: CC-BY-4.0
+url: "https://watt-guide.com/guides/solar-payback-by-state-2026"
+repository-artifact: "https://watt-guide.com/assets/data/solar-payback-index-2026.csv"
+abstract: >-
+  Residential solar simple payback for all 50 US states, recomputed after the 30% federal
+  tax credit (Section 25D) expired on 31 December 2025. Built from EIA residential rates,
+  NREL PVWatts peak sun hours, statewide net-metering regime and EnergySage installed cost,
+  applying one identical formula to every state.
+keywords:
+  - solar
+  - photovoltaics
+  - payback
+  - net metering
+  - electricity prices
+  - United States
+authors:
+  - family-names: "de Madrazo"
+    given-names: "Bruno"
